@@ -1,0 +1,9 @@
+{
+  "id": "scene5v",
+  "background": "blurry_chase.png",
+  "sound": "screaming_run.mp3",
+  "speaker": "Narrator",
+  "text": "You scream and bolt into the dark.\nThe growl turns into thunderous footsteps chasing you.\nA hand grabs your shoulder — and everything goes black.",
+  "endingType": "caught",
+  "choices": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "scene1",
+  "background": "dark_room.jpg",
+  "sound": "eerie_ambience.mp3", 
+  "speaker": "Narrator",
+  "text": "You wake up in a small, cold room. The air is heavy.\nYour head hurts, and there's a strange mark on your wrist.\nSuddenly, you hear a faint whisper… from behind the mirror.",
+  "choices": [
+    { "text": "Check the mirror", "next": "scene2a" },
+    { "text": "Look for an exit", "next": "scene2b" },
+    { "text": "Ignore it and wait", "next": "scene2c" }
+  ]
+}

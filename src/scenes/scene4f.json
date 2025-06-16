@@ -1,0 +1,11 @@
+{
+  "id": "scene4f",
+  "background": "dark_hall.jpg",
+  "sound": "breathing.mp3",
+  "speaker": "Narrator",
+  "text": "You step back — and bump into something.\nIt breathes, slowly, right next to your ear.\nWhispers: 'Too late to run.'",
+  "choices": [
+    { "text": "Spin and strike", "next": "scene5k" },
+    { "text": "Freeze and stay still", "next": "scene5l" }
+  ]
+}

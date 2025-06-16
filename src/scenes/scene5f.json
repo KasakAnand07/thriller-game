@@ -1,0 +1,9 @@
+{
+  "id": "scene5f",
+  "background": "crawl_out.png",
+  "sound": "heartbeat.mp3",
+  "speaker": "Narrator",
+  "text": "You crawl silently to the far edge.\nThe bed crashes down behind you — something slams against it.\nYou make it to the closet and hide as the thing sniffs the air, searching.",
+  "endingType": "suspense",
+  "choices": []
+}

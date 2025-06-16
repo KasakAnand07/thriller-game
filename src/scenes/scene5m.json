@@ -1,0 +1,9 @@
+{
+  "id": "scene5m",
+  "background": "thrown_object.png",
+  "sound": "object_throw.mp3",
+  "speaker": "Narrator",
+  "text": "You toss a book across the room.\nThe creature lunges — away from you.\nYou run.\nBut its head turns mid-sprint…\nAnd it smiles.",
+  "endingType": "mystery",
+  "choices": []
+}

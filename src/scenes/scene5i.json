@@ -1,0 +1,9 @@
+{
+  "id": "scene5i",
+  "background": "mirror_corridor.png",
+  "sound": "mirror_whispers.mp3",
+  "speaker": "Narrator",
+  "text": "You walk carefully… and the reflections walk too — but slightly out of sync.\nOne smiles.\nIt’s not you.",
+  "endingType": "mystery",
+  "choices": []
+}

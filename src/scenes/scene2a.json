@@ -1,0 +1,11 @@
+{
+  "id": "scene2a",
+  "background": "mirror_reflection.jpg",
+  "sound": "whisper.mp3",
+  "speaker": "Narrator",
+  "text": "You approach the mirror. Your reflection doesn’t move.\nIt blinks... but you didn’t.\nA whisper: 'Don’t trust the door.'",
+  "choices": [
+    { "text": "Touch the mirror", "next": "scene3a" },
+    { "text": "Back away slowly", "next": "scene3b" }
+  ]
+}

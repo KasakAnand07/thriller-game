@@ -1,0 +1,9 @@
+{
+  "id": "scene5c",
+  "background": "echo_chamber.png",
+  "sound": "distorted_voice.mp3",
+  "speaker": "Narrator",
+  "text": "You reach toward the older version of yourself.\nIt looks up — tears streaming — and whispers, 'It never ends.'\nThe glass ripples. You’re pulled in.\nNow you're the one trapped behind the mirror… screaming silently as the next version of you approaches.",
+  "endingType": "mystery",
+  "choices": []
+}

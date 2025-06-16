@@ -1,0 +1,9 @@
+{
+  "id": "scene5h",
+  "background": "room_sealed.png",
+  "sound": "heartbeat.mp3",
+  "speaker": "Narrator",
+  "text": "You slam the door shut — and everything goes silent.\nThe room resets. Clean. Calm.\nYou check the mirror… your reflection is gone.",
+  "endingType": "mystery",
+  "choices": []
+}

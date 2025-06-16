@@ -1,0 +1,9 @@
+{
+  "id": "scene5s",
+  "background": "infinite_hall.png",
+  "sound": "clock_tick.mp3",
+  "speaker": "Narrator",
+  "text": "You keep walking.\nMinutes. Hours. Days.\nThe hallway never ends.\nBut somehow, you don’t age.",
+  "endingType": "mystery",
+  "choices": []
+}

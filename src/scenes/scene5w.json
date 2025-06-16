@@ -1,0 +1,9 @@
+{
+  "id": "scene5w",
+  "background": "hand_cliff.png",
+  "sound": "humming-sound.mp3",
+  "speaker": "Narrator",
+  "text": "You flail — and your hand catches a rusty pipe.\nDangling above darkness, you pull yourself up… into a crawlspace.\nYou’re safe — for now.",
+  "endingType": "narrow_escape",
+  "choices": []
+}

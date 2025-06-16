@@ -1,0 +1,9 @@
+{
+  "id": "scene5t",
+  "background": "empty_hall.png",
+  "sound": "humming.mp3",
+  "speaker": "Narrator",
+  "text": "You sit. And wait.\nNothing comes.\nYou fade into the wallpaper — one more shadow in the corridor.",
+  "endingType": "death",
+  "choices": []
+}

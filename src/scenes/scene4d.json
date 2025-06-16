@@ -1,0 +1,11 @@
+{
+  "id": "scene4d",
+  "background": "door_open.jpg",
+  "sound": "door_bang.mp3",
+  "speaker": "Narrator",
+  "text": "You dash to the door and swing it open.\nBut behind it… is another identical room.\nExcept it’s on fire.",
+  "choices": [
+    { "text": "Enter the fiery room", "next": "scene5g" },
+    { "text": "Slam the door shut", "next": "scene5h" }
+  ]
+}

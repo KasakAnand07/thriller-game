@@ -1,0 +1,9 @@
+{
+  "id": "scene5o",
+  "background": "falling_grab.png",
+  "sound": "grab_wood.mp3",
+  "speaker": "Narrator",
+  "text": "You reach wildly — and grab a dangling light cord.\nIt holds… barely.\nYou dangle over a black void, feet swinging.",
+  "endingType": "mystery",
+  "choices": []
+}

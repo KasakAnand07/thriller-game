@@ -1,0 +1,11 @@
+{
+  "id": "scene3e",
+  "background": "hallway_dim.jpg",
+  "sound": "floor_creak.mp3",
+  "speaker": "Narrator",
+  "text": "You step into a dim hallway.\nThe lights flicker. Every step echoes.\nThere’s a door ahead — slightly open, with blood on the handle.",
+  "choices": [
+    { "text": "Open the door", "next": "scene4i" },
+    { "text": "Turn back", "next": "scene4j" }
+  ]
+}

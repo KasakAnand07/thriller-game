@@ -1,0 +1,9 @@
+{
+  "id": "scene5q",
+  "background": "photo_trap.png",
+  "sound": "screamecho.mp3",
+  "speaker": "Narrator",
+  "text": "You scream — but your voice echoes inside the frame.\nOutside, someone hangs your photo on a wall.\nYou’re trapped. Forever smiling.",
+  "endingType": "death",
+  "choices": []
+}

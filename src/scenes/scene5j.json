@@ -1,0 +1,9 @@
+{
+  "id": "scene5j",
+  "background": "covered_mirrors.png",
+  "sound": "heartbeat.mp3",
+  "speaker": "Narrator",
+  "text": "You cover the mirrors — one by one.\nBut the last one resists.\nIt cracks… and a hand reaches out.",
+  "endingType": "death",
+  "choices": []
+}

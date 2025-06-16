@@ -1,0 +1,9 @@
+{
+  "id": "scene5p",
+  "background": "black_void.png",
+  "sound": "void_fall.mp3",
+  "speaker": "Narrator",
+  "text": "You give in — and fall.\nThe world fades to nothing.\nYet somehow… you keep falling.\nForever.",
+  "endingType": "death",
+  "choices": []
+}

@@ -1,0 +1,11 @@
+{
+  "id": "scene4g",
+  "background": "monster_eye.png",
+  "sound": "grawl.mp3",
+  "speaker": "Narrator",
+  "text": "You peek out.\nA tall, eyeless creature scans the room — sniffing the air.\nIt turns toward you.",
+  "choices": [
+    { "text": "Distract it with a sound", "next": "scene5m" },
+    { "text": "Stay frozen", "next": "scene5n" }
+  ]
+}

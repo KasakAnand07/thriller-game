@@ -1,0 +1,11 @@
+{
+  "id": "scene2c",
+  "background": "clock_room.jpg",
+  "sound": "heartbeat.mp3",
+  "speaker": "Narrator",
+  "text": "Time seems to stop. The ticking clock halts.\nThe lights flicker.\nSuddenly, the door unlocks on its own.",
+  "choices": [
+    { "text": "Step out", "next": "scene3e" },
+    { "text": "Stay inside", "next": "scene3f" }
+  ]
+}

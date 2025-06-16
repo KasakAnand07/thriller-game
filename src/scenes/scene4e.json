@@ -1,0 +1,11 @@
+{
+  "id": "scene4e",
+  "background": "corridor.png",
+  "sound": "door_creak.mp3",
+  "speaker": "Narrator",
+  "text": "The door swings open by itself.\nInside is a long corridor with mirrors on both sides… and you’re not alone in the reflections.",
+  "choices": [
+    { "text": "Walk slowly", "next": "scene5i" },
+    { "text": "Cover the mirrors", "next": "scene5j" }
+  ]
+}
