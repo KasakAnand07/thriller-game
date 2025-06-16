@@ -1,9 +1,0 @@
-{
-  "id": "scene5r",
-  "background": "peaceful_frame.png",
-  "sound": "angelic_chime.mp3",
-  "speaker": "Narrator",
-  "text": "You close your eyes.\nPeace washes over you.\nYou’re part of the memory now — and maybe, that’s enough.",
-  "endingType": "escape",
-  "choices": []
-}

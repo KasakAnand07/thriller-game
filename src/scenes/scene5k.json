@@ -1,9 +1,0 @@
-{
-  "id": "scene5k",
-  "background": "creature_attack.png",
-  "sound": "thump.mp3",
-  "speaker": "Narrator",
-  "text": "You spin and swing — your hand connects with… nothing.\nBut a deep growl starts inside your head.\nYou fall, screaming.",
-  "endingType": "death",
-  "choices": []
-}

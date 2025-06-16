@@ -1,0 +1,11 @@
+{
+  "id": "scene3a",
+  "background": "mirror_portal.webp",
+  "sound": "humming-sound.mp3",
+  "speaker": "Narrator",
+  "text": "As your fingers touch the mirror, it ripples like water.\nA sharp crack — and you're pulled in.\nYou're now inside... a reversed version of the same room.",
+  "choices": [
+    { "text": "Explore the reversed room", "next": "scene4a" },
+    { "text": "Scream for help", "next": "scene4b" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "scene3c",
+  "background": "door_chain.webp",
+  "sound": "whisper.mp3",
+  "speaker": "Narrator",
+  "text": "You call out.\nSilence. Then a whisper replies, 'Why did you wake me?'\nThe chain starts unlocking on its own.",
+  "choices": [
+    { "text": "Open the door", "next": "scene4e" },
+    { "text": "Back away", "next": "scene4f" }
+  ]
+}

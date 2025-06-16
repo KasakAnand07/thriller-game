@@ -1,0 +1,9 @@
+{
+  "id": "scene5a",
+  "background": "sunlight_room.webp",
+  "sound": "wind_blowing.mp3",
+  "speaker": "Narrator",
+  "text": "You flip through the journal — page after page of memories you don’t remember.\nSuddenly, a glass door appears, shimmering like water.\nYou step through… and jolt awake in your real bedroom, gasping.\nThe journal is gone — but your hands are covered in ink.\nWas it just a dream… or did something follow you back?",
+  "endingType": "escape",
+  "choices": []
+}

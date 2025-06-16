@@ -1,9 +1,0 @@
-{
-  "id": "scene5x",
-  "background": "abyss.png",
-  "sound": "wind-fall.mp3",
-  "speaker": "Narrator",
-  "text": "You surrender to the fall.\nWeightless. Peaceful.\nThen — splash. You land in cold water. Gasping, you float in darkness.",
-  "endingType": "open_ending",
-  "choices": []
-}

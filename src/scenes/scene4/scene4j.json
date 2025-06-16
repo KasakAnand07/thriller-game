@@ -1,0 +1,11 @@
+{
+  "id": "scene4j",
+  "background": "hallway_stretch.webp",
+  "sound": "footsteps.mp3",
+  "speaker": "Narrator",
+  "text": "You turn back, but the hallway stretches endlessly now.\nThe door you came from… is gone.",
+  "choices": [
+    { "text": "Keep walking", "next": "scene5s" },
+    { "text": "Sit and wait", "next": "scene5t" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "scene4l",
+  "background": "dark_hall.webp",
+  "sound": "running.mp3",
+  "speaker": "Narrator",
+  "text": "You dash forward blindly — hands stretched, hoping for a door.\nSuddenly, the ground disappears beneath you.\nYou’re falling.",
+  "choices": [
+    { "text": "Try to grab onto something", "next": "scene5w" },
+    { "text": "Let yourself fall", "next": "scene5x" }
+  ]
+}

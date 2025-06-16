@@ -5,7 +5,8 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-color: #000;
   color: #fff;
-  overflow: hidden;
+  overflow-y: auto;
+  height: 100%;
 }
 
 /* Start screen */
@@ -51,11 +52,25 @@ body {
   background-color: #cc0033;
 }
 
+.sound-toggle {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: rgba(0,0,0,0.5);
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  z-index: 10;
+}
+
 /* Scene container */
 .scene-container {
   width: 100vw;
-  height: 100vh;
-  background-size: contain; /* 🔁 Better for portrait + landscape */
+  min-height: 100vh; /* 🟢 Allows scrolling beyond viewport */
+  background-size: contain; /* 🔁 Still good for mixed image ratios */
   background-repeat: no-repeat;
   background-position: center;
   display: flex;
@@ -66,7 +81,9 @@ body {
   color: white;
   text-shadow: 0 0 5px black;
   transition: background-image 0.4s ease-in-out;
-  backdrop-filter: blur(0px); /* option for depth */
+  backdrop-filter: blur(0px);
+  overflow-y: auto;           /* ✅ Enables vertical scrolling */
+  -webkit-overflow-scrolling: touch; /* ✅ Smooth scroll on iOS */
 }
 
 /* speaker name */

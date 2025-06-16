@@ -1,0 +1,9 @@
+{
+  "id": "scene5n",
+  "background": "monster_close.webp",
+  "sound": "breathing.mp3",
+  "speaker": "Narrator",
+  "text": "It sniffs closer… closer…\nThen stops.\nYour heart pounds in your throat.\nIt slowly walks past.\nYou live.",
+  "endingType": "escape",
+  "choices": []
+}

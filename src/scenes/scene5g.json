@@ -1,9 +1,0 @@
-{
-  "id": "scene5g",
-  "background": "fire_room.png",
-  "sound": "fire_crackle.mp3",
-  "speaker": "Narrator",
-  "text": "You step into the flames, hoping it’s an illusion.\nBut the heat is real.\nAs the fire consumes the room, the last thing you see… is your own face smiling in the mirror.",
-  "endingType": "death",
-  "choices": []
-}

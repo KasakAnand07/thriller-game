@@ -1,0 +1,11 @@
+{
+  "id": "scene4h",
+  "background": "under_bed.webp",
+  "sound": "running.mp3",
+  "speaker": "Narrator",
+  "text": "You bolt from under the bed, crashing through the room.\nYou trip — and fall through... the floor.",
+  "choices": [
+    { "text": "Try to grab something", "next": "scene5o" },
+    { "text": "Let yourself fall", "next": "scene5p" }
+  ]
+}

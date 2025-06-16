@@ -1,0 +1,9 @@
+{
+  "id": "scene5b",
+  "background": "mirror_cell.webp",
+  "sound": "drip_echo.mp3",
+  "speaker": "Narrator",
+  "text": "You toss the journal into the fireplace — but the flames die instantly.\nYour reflection begins to scream silently.\nSuddenly, a cold hand bursts through the mirror — your older self, eyes hollow.\nThey drag you through the glass.\nNow, you're trapped in their place… watching your world from the other side.",
+  "endingType": "death",
+  "choices": []
+}

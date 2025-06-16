@@ -1,0 +1,9 @@
+{
+  "id": "scene5u",
+  "background": "face_to_face_creature.webp",
+  "sound": "grawl.mp3",
+  "speaker": "Narrator",
+  "text": "You stand your ground. The creature inches closer, then… pauses.\nIt tilts its head — and vanishes into thin air.\nYou’re left alone, shaking, but alive.",
+  "endingType": "escape",
+  "choices": []
+}

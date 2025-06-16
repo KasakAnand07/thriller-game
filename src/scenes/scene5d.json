@@ -1,9 +1,0 @@
-{
-  "id": "scene5d",
-  "background": "room.png",
-  "sound": "clock_tick.mp3",
-  "speaker": "Narrator",
-  "text": "You run blindly — and fall.\nDarkness swallows you.\nYou wake up… in the same small, cold room.\nThe mark on your wrist now burns with light.\nThe whisper returns: 'You never left.'",
-  "endingType": "death",
-  "choices": []
-}

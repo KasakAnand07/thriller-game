@@ -1,0 +1,11 @@
+{
+  "id": "scene3d",
+  "background": "under_bed.webp",
+  "sound": "breathing.mp3",
+  "speaker": "Narrator",
+  "text": "You crouch behind the bed.\nThe door creaks open. Someone enters… barefoot.\nThey pause. Breathing. Right above you.",
+  "choices": [
+    { "text": "Hold your breath", "next": "scene4g" },
+    { "text": "Make a run for it", "next": "scene4h" }
+  ]
+}

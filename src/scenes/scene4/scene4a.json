@@ -1,0 +1,11 @@
+{
+  "id": "scene4a",
+  "background": "reversed_room.webp",
+  "sound": "heartbeat.mp3",
+  "speaker": "Narrator",
+  "text": "The room is reversed — furniture mirrored, colors colder.\nA journal lies open on the desk with your name inside… but it's not your handwriting.",
+  "choices": [
+    { "text": "Read the journal", "next": "scene5a" },
+    { "text": "Burn the journal", "next": "scene5b" }
+  ]
+}

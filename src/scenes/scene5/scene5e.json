@@ -1,0 +1,9 @@
+{
+  "id": "scene5e",
+  "background": "dark_grab.webp",
+  "sound": "strangled.mp3",
+  "speaker": "Narrator",
+  "text": "You grab the leg — it’s ice cold.\nA growl. The figure yanks *you* out instead.\nThe room goes black as sharp claws wrap around your throat.",
+  "endingType": "death",
+  "choices": []
+}

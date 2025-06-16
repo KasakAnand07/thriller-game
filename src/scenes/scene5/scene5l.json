@@ -1,0 +1,9 @@
+{
+  "id": "scene5l",
+  "background": "still_dark.webp",
+  "sound": "breathing.mp3",
+  "speaker": "Narrator",
+  "text": "You don’t move.\nSomething brushes past your face — breath warm and rotting.\nThen… it’s gone.\nYou survive. For now.",
+  "endingType": "escape",
+  "choices": []
+}
